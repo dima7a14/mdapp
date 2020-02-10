@@ -22,7 +22,7 @@
             <ng-container *ngIf="!fixedSites">
                 <p padding>{{ 'core.login.newsitedescription' | translate }}</p>
                 <ion-item>
-                    <ion-input type="url" name="url" placeholder="{{ 'core.login.siteaddress' | translate }}" formControlName="siteUrl" [core-auto-focus]="showKeyboard"></ion-input>
+                    <ion-input type="url" name="url" value="https://moodle.medicaldoctor-studies.com/" placeholder="{{ 'core.login.siteaddress' | translate }}" formControlName="siteUrl" [core-auto-focus]="showKeyboard"></ion-input>
                 </ion-item>
             </ng-container>
 

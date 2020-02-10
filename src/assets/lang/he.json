@@ -1289,7 +1289,7 @@
     "core.login.mobileservicesnotenabled": "Mobile Services לא מאופשרים באתר זה. אנא פנה למנהל האתר באם רצונך לשנות זאת.",
     "core.login.mustconfirm": "עליך לאשר את ההתחברות שלך",
     "core.login.newaccount": "חשבון חדש",
-    "core.login.newsitedescription": "יש להזין את כתובת אתר המוודל שלך. יש לשים לב כי יתכן והאתר אינו מוגדר לעבוד עם יישומון זו.",
+    "core.login.newsitedescription": "אנא אשר את כתובת האתר של פלטפורמת LMS שלך.",
     "core.login.notloggedin": "עליך להיות מחובר/ת",
     "core.login.password": "סיסמה",
     "core.login.passwordforgotten": "שכחת סיסמה",
